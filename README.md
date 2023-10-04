@@ -124,10 +124,14 @@ sudo pip3 install flask_cors
 sudo pip3 install flasgger
 Ensure you have JQuery version 3.x included in your HTML.
 html
+
+```
 Copy code
 <head>
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 </head>
+```
+
 You are now ready to start working on the project!
 Troubleshooting
 
