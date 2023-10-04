@@ -66,9 +66,9 @@ By the end of this project, you should be able to explain the following concepts
 
 This project is to be completed in teams of 2 people. Collaborate effectively and create something amazing!
 
-Firas Msekni: software engineering student
+**Firas Msekni**: software engineering student
 
-Youssef Saad: software engineering student
+**Youssef Saad**: software engineering student
 
 ---
 
@@ -125,8 +125,9 @@ sudo pip3 install flasgger
 Ensure you have JQuery version 3.x included in your HTML.
 html
 
-```
 Copy code
+
+```
 <head>
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 </head>
